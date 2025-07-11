@@ -1,0 +1,11 @@
+<company>
+  <name>Acme Inc.</name>
+  <departments>
+    <department name="HR">
+      <head>Jane Doe</head>
+    </department>
+    <department name="Engineering">
+      <head>John Smith</head>
+    </department>
+  </departments>
+</company>
